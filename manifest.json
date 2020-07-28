@@ -21,6 +21,10 @@
               "path": "/docs/basic-features/channels.md"
             }
           ]
+        },
+        {
+          "title": "Support",
+          "path": "/docs/support.md"
         }
       ]
     }
