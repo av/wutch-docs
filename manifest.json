@@ -25,6 +25,10 @@
         {
           "title": "Support",
           "path": "/docs/support.md"
+        },
+        {
+          "title": "Closed Beta Guides",
+          "path": "/docs/closed-beta.md"
         }
       ]
     }
