@@ -4,9 +4,11 @@ Thanks for joining a closed beta of Wutch! My biggest hope is that Wutch can be 
 
 To actually start using Wutch during this beta stage, there're a couple more steps need to be completed.
 
-<div class="card-warn">
+---
+
 As Wutch is a product which is being in the development right now, there are a lot of areas which might not work properly or not work at all. There are also multiple implicit limitations which might render the service unavailable or inaccessible for use. Please, don't hesitate to be loud about these. Loud-speaking could be done in any of the support channels suitable for you.
-</div>
+
+---
 
 ## Complete the invitation
 
