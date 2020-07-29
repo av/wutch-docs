@@ -24,7 +24,7 @@ If you haven't yet finished setting up your Wutch account, it could be done so w
 
 Wutch extension haven't yet been approved by a Google Web Store team, so the only way to obtain it right now is manual installation. Luckily, Chrome team got us covered and it's not that hard to do:
 
-- Download Beta Extension from its GitHub Releases
+- Download Beta Extension from its [GitHub Releases](https://github.com/av/wutch-chrome-extension/releases)
 - Unpack the downloaded archive somewhere on your computer
 - Go to a **chrome://extensions** address in your Chrome
 - Enable the "Developer Mode" in the top right corner of the page
