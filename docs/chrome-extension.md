@@ -2,7 +2,7 @@
 
 ![Screenshot of Wutch Documentation with active Wutch extension](/images/docs/extension-in-action.png)
 
-Wutch requires one pretty technical pointer to operate - a precise handle of an element for the target page. Because not everybody have hands-on experience with Web Development, we're shipping a [Wutch Browse Extension](https://github.com/av/wutch-chrome-extension) for Chrome to simplify this procedure.
+Wutch requires one pretty technical pointer to operate - a precise handle of an element for the target page. Because not everybody have hands-on experience with Web Development, we're shipping a [Wutch Browser Extension](https://github.com/av/wutch-chrome-extension) for Chrome to simplify this procedure.
 
 ---
 
