@@ -23,6 +23,16 @@
           ]
         },
         {
+          "title": "Chrome Extension",
+          "path": "/docs/chrome-extension.md",
+          "routes": [
+            {
+              "title": "Installation",
+              "path": "/docs/chrome-extension/installation.md"
+            }
+          ]
+        },
+        {
           "title": "Support",
           "path": "/docs/support.md"
         },
