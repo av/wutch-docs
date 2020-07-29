@@ -13,4 +13,4 @@ As for the moment, Wutch Browser extension is not yet available in Chrome Web St
 ## Manual Installation
 
 Open Extension's Releases Page
-![Screenshot of GitHub releases page](images/docs/extension-releases.png)
+![Screenshot of GitHub releases page](/images/docs/extension-releases.png)
