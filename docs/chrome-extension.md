@@ -1,6 +1,6 @@
 # Chrome Browser Extension
 
-Wutch requires one pretty technical pointer to operate - a precise handle of an element for the target page. Because not everybody have hands-on experience with Web Development, we're shipping an extension for Chrome Browser to simplify this procedure.
+Wutch requires one pretty technical pointer to operate - a precise handle of an element for the target page. Because not everybody have hands-on experience with Web Development, we're shipping a [Wutch Browse Extension](https://github.com/av/wutch-chrome-extension) for Chrome to simplify this procedure.
 
 All in all, extension's purpose is very simple: capture the page you want to track and the element you'll point on it.
 
