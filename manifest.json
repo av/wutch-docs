@@ -14,11 +14,26 @@
           "routes": [
             {
               "title": "Wutches",
-              "path": "/docs/basic-features/wutches.md"
+              "path": "/docs/basic-features/wutches.md",
+              "routes": [
+                {
+                  "title": "Create",
+                  "path": "/docs/basic-features/wutches/create.md"
+                }
+              ]
             },
             {
               "title": "Channels",
               "path": "/docs/basic-features/channels.md"
+            }
+          ]
+        },
+        {
+          "title": "Application",
+          "routes": [
+            {
+              "title": "Completing the invitation",
+              "path": "/docs/application/completing-invitation.md"
             }
           ]
         },
@@ -37,7 +52,7 @@
           "path": "/docs/support.md"
         },
         {
-          "title": "Closed Beta Guides",
+          "title": "Closed Beta Notes",
           "path": "/docs/closed-beta.md"
         }
       ]
