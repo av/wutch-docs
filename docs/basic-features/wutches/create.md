@@ -2,6 +2,11 @@
 
 We recommend you setting up our [Browser Extension](https://wutch.net/docs/chrome-extension) to streamline the process.
 
+<div className="pane-info text-center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/RX702Qfhm4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p className="description">Same procedure as described below, but as a no-comment video.</p>
+</div>
+
 - The hardest part, find something useful for you to track
   <p className="description">You can visit our <a href="https://wutch.net/use-cases">Use Cases</a> page for some inspiration</p>
 - When on the page you want to track, click the extension icon <img src="https://wutch.net/logo.png" width="16" className="inline" /> in the browser
