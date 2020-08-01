@@ -18,7 +18,7 @@ We recommend you setting up our [Browser Extension](https://wutch.net/docs/chrom
   <img src="/images/docs/wutch-config.png" />
   <p className="description text-center">In general, you won't need to make any tweaks to these values. However, if you've got hands-on Web Development experience, you may absolutely tweak these to your liking.</p>
 - On the next screen, choose a Notification Channel to receive updates.
-  <img src="/images/docs/wutch-config.png" />
+  <img src="/images/docs/wutch-channel.png" />
   <p className="description text-center">Check out our <a href="https://wutch.net/docs/basic-features/channels">Channel docs</a> for more information on creating new notification channels</p>
 - Upon proceeding, Wutch will run multiple checks, trying to access the configured value. It may take a while.
   <img src="/images/docs/wutch-checks.png" />
