@@ -10,5 +10,5 @@ As Wutch is a product which is being in the development right now, there are a l
 
 - [Complete your invitation](https://wutch.net/docs/application/completing-invitation)
 - [Install Beta Chrome Extension](https://wutch.net/docs/chrome-extension)
-- [Create your first Wutch](https://wutch.net/docs/basic-features/wutches/create.md)
+- [Create your first Wutch](https://wutch.net/docs/basic-features/wutches/create)
 - Join at least some of our [Support Channels](https://wutch.net/docs/support)
