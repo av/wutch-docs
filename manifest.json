@@ -2,10 +2,12 @@
   "routes": [
     {
       "title": "Documentation",
+      "description": "Wutch documentation",
       "heading": true,
       "routes": [
         {
           "title": "Getting Started",
+          "description": "Get started with Wutch",
           "path": "/docs/getting-started.md"
         },
         {
@@ -14,16 +16,19 @@
           "routes": [
             {
               "title": "Wutches",
+              "description": "Read more about Wutches",
               "path": "/docs/basic-features/wutches.md",
               "routes": [
                 {
-                  "title": "Create",
+                  "title": "Create a Wutch",
+                  "description": "Creating a new Wutch",
                   "path": "/docs/basic-features/wutches/create.md"
                 }
               ]
             },
             {
               "title": "Channels",
+              "description": "Read more about Channels",
               "path": "/docs/basic-features/channels.md"
             }
           ]
@@ -33,26 +38,31 @@
           "routes": [
             {
               "title": "Completing the invitation",
+              "description": "Completing an invitation to Wutch",
               "path": "/docs/application/completing-invitation.md"
             }
           ]
         },
         {
           "title": "Chrome Extension",
+          "description": "Read about Wutch Chrome Extension",
           "path": "/docs/chrome-extension.md",
           "routes": [
             {
               "title": "Installation",
+              "description": "Learn how to install Wutch Chrome Extension",
               "path": "/docs/chrome-extension/installation.md"
             }
           ]
         },
         {
           "title": "Support",
+          "description": "Learn about Wutch Support channels",
           "path": "/docs/support.md"
         },
         {
           "title": "Closed Beta Notes",
+          "description": "Read about Wutch Closed Beta",
           "path": "/docs/closed-beta.md"
         }
       ]
