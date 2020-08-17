@@ -1,6 +1,16 @@
 # Installing Wutch Extension for Chrome
 
-As for the moment, Wutch Browser extension is not yet available in [Chrome Web Store](https://chrome.google.com/webstore/category/extensions). So the only way to install it is via manual installation.
+There are two ways to install Wutch Extension for Chrome: 
+- [**Default**](#default-installation) (recommended) - Install from **Chrome Web Store**
+  <p className="description">Extension will be installed in the same way as other Browser Extensions and will be automatically updated to latest stable version.</p>
+- [**Manual**](#manual-installation) - Install directly from extension repository
+  <p className="description">Manual installation could be used to get access to new extension features faster. It'll also require periodical <i>manual updates</i>.</p>
+
+## Default Installation
+
+Open the extension page in Chrome Web Store and click `Add to Chrome` in the top right corner of the page.
+
+![Screenshot of Wutch Chrome Extension page in Chrome Web Store](/images/docs/extension-page.png)
 
 ## Manual Installation
 

@@ -34,16 +34,6 @@
           ]
         },
         {
-          "title": "Application",
-          "routes": [
-            {
-              "title": "Completing the invitation",
-              "description": "Completing an invitation to Wutch",
-              "path": "/docs/application/completing-invitation.md"
-            }
-          ]
-        },
-        {
           "title": "Chrome Extension",
           "description": "Read about Wutch Chrome Extension",
           "path": "/docs/chrome-extension.md",
@@ -52,6 +42,26 @@
               "title": "Installation",
               "description": "Learn how to install Wutch Chrome Extension",
               "path": "/docs/chrome-extension/installation.md"
+            },
+            {
+              "title": "Usage",
+              "description": "Learn how to use Wutch extension for Chrome",
+              "path": "/docs/chrome-extension/using.md"
+            }
+          ]
+        },
+        {
+          "title": "Application",
+          "routes": [
+            {
+              "title": "Completing the invitation",
+              "description": "Completing an invitation to Wutch",
+              "path": "/docs/application/completing-invitation.md"
+            },
+            {
+              "title": "Updating account email",
+              "description": "Read about updating your account email",
+              "path": "/docs/application/changing-email.md"
             }
           ]
         },
