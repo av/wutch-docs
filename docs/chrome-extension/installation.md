@@ -1,7 +1,7 @@
 # Installing Wutch Extension for Chrome
 
 There are two ways to install Wutch Extension for Chrome: 
-- [**Default**](#default-installation) (recommended) - Install from **Chrome Web Store**
+- [**Recommended**](#default-installation) - Install from [**Chrome Web Store**](https://chrome.google.com/webstore/detail/wutch/daepijeddhccepaahegmohekmifhnnfe)
   <p className="description">Extension will be installed in the same way as other Browser Extensions and will be automatically updated to latest stable version.</p>
 - [**Manual**](#manual-installation) - Install directly from extension repository
   <p className="description">Manual installation could be used to get access to new extension features faster. It'll also require periodical <i>manual updates</i>.</p>
