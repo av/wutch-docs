@@ -21,7 +21,7 @@
               "routes": [
                 {
                   "title": "Create a Wutch",
-                  "description": "Creating a new Wutch",
+                  "description": "Learn how to create a new Wutch",
                   "path": "/docs/basic-features/wutches/create.md"
                 }
               ]
