@@ -71,9 +71,9 @@
           "path": "/docs/support.md"
         },
         {
-          "title": "Closed Beta Notes",
-          "description": "Read about Wutch Closed Beta",
-          "path": "/docs/closed-beta.md"
+          "title": "Beta Notes",
+          "description": "Read about Wutch Beta",
+          "path": "/docs/beta.md"
         }
       ]
     }
