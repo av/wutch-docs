@@ -15,7 +15,7 @@ Both of these can be specified either manually or with the help of our [browser 
 Wutch can access almost any site that your browser can. However, there are certain limitations:
 
 - Wutch cannot log into websites on your behalf.
-  <p className="description">However, this feature is currently under consideration and may be available in the future. You can <a href="https://shipright.community/wutch/5f1b2cbc4669139528dc53e5">track its progress</a> on our <a href="https://shipright.community/wutch">Suggestions Board</a>.</p>
+  <p className="description">However, this feature is currently under consideration and may be available in the future.
 - Wutch is a robot, so it won't pass "Not a Robot" tests.
   <p className="description">Challenges like ReCaptcha are, for now, beyond our capabilities.</p>
 - Some websites implement bot detection mechanisms to prevent automated content extraction.

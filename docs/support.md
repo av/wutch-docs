@@ -11,7 +11,4 @@ We provide support over various channels.
 - **[Wutch Support Email](mailto:support@wutch.net)**
   - For official support queries and legal contacts.
 
-- **[Wutch Suggestions & Feedback Board](https://shipright.community/wutch)**
-  - For general feedback and feature requests.
-
 
